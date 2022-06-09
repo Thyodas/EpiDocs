@@ -1,3 +1,5 @@
-# CPool
+# 🤿 CPool
 
-test lol
+{% hint style="info" %}
+This module gives you 7 credits.
+{% endhint %}
