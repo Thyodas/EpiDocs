@@ -7,7 +7,8 @@
 * [❓ What are stumpers?](stumpers/what-are-stumpers.md)
 * [📕 Rules](stumpers/rules.md)
 * [📅 Prepare for stumper](stumpers/prepare-for-stumper.md)
-* [📈 Grading](stumpers/grading.md)
+* [📈 Grading](stumpers/grading/README.md)
+  * [Page 1](stumpers/grading/page-1.md)
 
 ## modules
 
