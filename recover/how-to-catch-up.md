@@ -1,2 +1,2 @@
-# How to catch up
+# ✨ How to catch up
 
